@@ -1,0 +1,13 @@
+#This is an instagram bot which logins into your account, download the photos by provided
+#hashtags and upload it on your account by capturing releated hashtags as an caption to the photo
+
+#PLEASE GIVE IT A STAR ON GITHUB
+
+#MADE BY - ANUJ SINGH
+
+#https://github.com/singhanuj620
+#PORTFOLIO - https://singhanuj620.github.io/portfolio/
+#EMAIL - singhanuj620@gmail.com
+#INSTAGRAM - @singhanuj620
+
+#THANK YOU

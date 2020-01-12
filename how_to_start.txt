@@ -1,0 +1,61 @@
+open the folder in cmd and run the following command :
+
+NOTE - you should have already installed python and pip and morzilla firefox on your PC (if not google it and install it)
+after that run - 
+
+pip install selenium
+pip install instabot
+
+
+########
+IN FILE - ins.py 
+do the following changes
+
+###################################################################
+
+LINE 14 - 
+change username and password to your instagram account username and password, it would look like,
+username = 'rocky123' , password = 'rabbitlion007'
+
+###################################################################
+
+LINE 15 - 
+change the tags array as per your requirements, it will look like - 
+tags=['camera','india']
+
+####################################################################
+
+LINE 19 - 
+change the value of range()
+it is the value which indicates the bot will download that photo per hashtag,
+right now it is 2 means it will download 2 photos per hashtag,
+you change the number like range(3) or range(1)
+
+###################################################################
+
+LINE 35 - 
+you can change the value of variable 'get_caption' as per your requirements
+from line 25 to line 34, it will gather the realted hashtags.
+
+###################################################################
+
+LINE 27 - 
+time.sleep() contains the value in seconds which is the interval between the uploading of photos
+
+
+####################################################################
+
+
+AND TO RUN THE FILE - 
+
+open cmd, navigate to the folder and run -
+
+python ins.py
+
+######################################################################
+
+for any query you can dm me on my linkedin or email
+
+linkedin - https://www.linkedin.com/in/anuj-singh-007/
+email - singhanuj620
+
